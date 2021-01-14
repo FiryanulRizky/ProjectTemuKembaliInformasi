@@ -1,5 +1,4 @@
 # ProjectTemuKembaliInformasi
-Merdeka Belajar -- Teknologi Informasi
 
 # OUTPUT PROGRAM TAMPAK DARI GUI
 
@@ -17,10 +16,10 @@ Merdeka Belajar -- Teknologi Informasi
 # TFIDF & VSM
 ![4  Terminal](https://user-images.githubusercontent.com/60762912/104545250-8c918f00-5664-11eb-9df6-7ce205e28a2d.PNG)
 
-# PROGRAM WEIGHTED TREE SIMILARITY
+# WEIGHTED TREE SIMILARITY
 ![4  Terminal](https://user-images.githubusercontent.com/60762912/104545301-ac28b780-5664-11eb-917c-9a42a88e64d0.PNG)
 
-# PROGRAM GRAY LEVEL CO-OCCURENCE MATRIX
+# GRAY LEVEL CO-OCCURENCE MATRIX
 ![4  Terminal](https://user-images.githubusercontent.com/60762912/104545442-032e8c80-5665-11eb-93cc-4600c85a78f6.PNG)
 
 
