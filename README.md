@@ -3,7 +3,7 @@ Merdeka Belajar -- Teknologi Informasi
 
 OUTPUT PROGRAM TAMPAK DARI GUI
 
-![COBA](https://user-images.githubusercontent.com/60762912/104547301-29eec200-5669-11eb-95ed-7c63511451e7.png)
+![COBA](https://user-images.githubusercontent.com/60762912/104547444-83ef8780-5669-11eb-8e21-7078a84a8b46.png)
 
 
 OUTPUT PROGRAM DARI TERMINAL
