@@ -3,20 +3,7 @@ Merdeka Belajar -- Teknologi Informasi
 
 OUTPUT PROGRAM TAMPAK DARI GUI
 
--- PROGRAM STOPWORD STEMMING --
-![3  Output](https://user-images.githubusercontent.com/60762912/104544640-3243fe80-5663-11eb-9894-21b1ad42b46f.png)
-
--- PROGRAM BOOLEAN --
-![3  Output](https://user-images.githubusercontent.com/60762912/104545123-4f2d0180-5664-11eb-9ac7-2d58ced7a056.PNG)
-
--- PROGRAM TFIDF & VSM --
-![3  Output](https://user-images.githubusercontent.com/60762912/104545239-88657180-5664-11eb-9057-49de13e716da.PNG)
-
--- PROGRAM WEIGHTED TREE SIMILARITY --
-![3  Output](https://user-images.githubusercontent.com/60762912/104545294-a7640380-5664-11eb-8ade-fb3f684fd1fb.PNG)
-
--- PROGRAM GRAY LEVEL CO-OCCURENCE MATRIX --
-![3  Output](https://user-images.githubusercontent.com/60762912/104545431-ff026f00-5664-11eb-9edd-d21f9aa2c28f.PNG)
+![COBA](https://user-images.githubusercontent.com/60762912/104547301-29eec200-5669-11eb-95ed-7c63511451e7.png)
 
 
 OUTPUT PROGRAM DARI TERMINAL
